@@ -1,7 +1,7 @@
-LED class for Mac
-=================
+LED on Mac class for mruby
+===========================
 
-This is an LED class for Mac OS X.
+This is an LED on Mac OS X class for mruby.
 It is a wrapper of keyboard LED manipulation libarary.
 (http://osxbook.com/book/bonus/chapter10/kbdleds/)
 
@@ -50,7 +50,7 @@ Change the status of LED.
 
 ## License
 
-BSD license.
+MIT license.
 
 ## Author
 
